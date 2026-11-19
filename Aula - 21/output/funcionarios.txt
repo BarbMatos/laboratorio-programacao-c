@@ -1,0 +1,5 @@
+Nome: ju, Salario: 93.00, Horas Extras: 1
+Nome: 223, Salario: 21.00, Horas Extras: 31
+Nome: 131, Salario: 414.00, Horas Extras: 131
+Nome: 131, Salario: 413.00, Horas Extras: 141
+Nome: 141, Salario: 141.00, Horas Extras: 14
